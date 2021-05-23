@@ -1,0 +1,16 @@
+button
+{
+    width: 90px;
+    height: 35px;
+    border: 0px;
+    outline: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+button:hover
+{
+    cursor: pointer;
+    background: red;
+}
